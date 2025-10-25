@@ -7,15 +7,16 @@
 - ⚡ Fun fact: Since childhood, I have been passionate about robots, which led me to enter the world of computers.
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ff0000?style=flat&logo=git&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=flat&logo=matplotlib&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-28A745?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-28A745?style=flat&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-28A745?style=flat&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-212121?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-212121?style=flat&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-212121?style=flat&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-212121?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-212121?style=flat&logo=matplotlib&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-212121?style=flat&logo=visual-studio-code&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-212121?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-212121?style=flat&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-212121?style=flat&logo=jupyter&logoColor=white)
+
 
 
 <!---
