@@ -6,7 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Since childhood, I have been passionate about robots, which led me to enter the world of computers.
 
-
 ![Python](https://img.shields.io/badge/Python-212121?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-212121?style=flat&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-212121?style=flat&logo=git&logoColor=white)
@@ -16,6 +15,7 @@
 ![YOLO](https://img.shields.io/badge/YOLOv8-212121?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-212121?style=flat&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-212121?style=flat&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-212121?style=flat&logo=flask&logoColor=white)
 
 
 
